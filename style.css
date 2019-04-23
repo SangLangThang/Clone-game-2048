@@ -1,0 +1,27 @@
+html,body{
+    height:100%;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:#FAF8EF;
+
+}
+table{
+    
+    text-align:center;
+    font-size:30px;
+    border:10px solid #BBADA0;
+    border-collapse: collapse;
+}
+tr,td{
+    width:50px;
+    height:50px;
+    border:10px solid #BBADA0;
+}
+.score{
+    
+}
